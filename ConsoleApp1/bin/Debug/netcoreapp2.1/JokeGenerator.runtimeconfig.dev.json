@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ritun\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ritun\\.nuget\\packages"
+    ]
+  }
+}
